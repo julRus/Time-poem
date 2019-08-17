@@ -10,6 +10,13 @@ Good Morning,
 It's Noon, 
 Luch time,
 Good Afternoon,
+
+18:00,
+It's Evening,
+Finished Work,
+Time to rest,
+Good Evening
+
 21:00,
 It's Nighttime,
 Time for bed,
