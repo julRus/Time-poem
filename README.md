@@ -28,3 +28,6 @@ Maybe we'll do some gardening today,
 It's Nighttime,
 Time for bed,
 GoodNight.
+
+Don't forget...
+Do it all again tomorrow...
